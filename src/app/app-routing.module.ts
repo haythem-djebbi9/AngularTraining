@@ -13,7 +13,6 @@ const routes: Routes = [
 
     { path: 'events', component: ListEventComponent },
 
-      {path:'**', component: NotFoundComponent},
 
 
 
